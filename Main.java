@@ -4,3 +4,6 @@ public class Main {
         p.mostrar(); 
     } 
 } 
+ECHO est  activado.
+"        Persona p2 = new Persona(\"Mar¡a\", 25);" 
+"        p2.mostrar();" 
